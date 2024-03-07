@@ -1,0 +1,11 @@
+#include <ctype.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <stdint.h>
+
+int main()
+{
+	printf("pointer size = %ld\n", sizeof(int *));
+	return 0;
+}

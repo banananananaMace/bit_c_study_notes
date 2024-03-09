@@ -55,5 +55,6 @@ int main(int argc, char *argv[])
 	printf_arr_1(arr, 3, 5);
 	pritnf_arr_2(ptr, 3, 5);
 	pritnf_arr_3(ptr_1, 3, 5);
+	pritnf_arr_3(ptr_arr, 3, 5);
 	return 0;
 }
